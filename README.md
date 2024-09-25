@@ -1,8 +1,12 @@
+<div id="header" align="center">
+    <h1>Hi, I'm Aleksey </h1>
+</div>
+
 <div id="socials" align="center">
-  <a href="https://vk.com/da_ne_hochu_ya_imya_pridymivat">
+  <a href="https://vk.com/da_ne_hochu_ya_imya_pridymivat" target="_blank">
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="VK"/>
   </a>
-  <a href="https://t.me/da_ne_hochu_ya_imya_pridymivat">
+  <a href="https://t.me/da_ne_hochu_ya_imya_pridymivat" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>

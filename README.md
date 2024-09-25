@@ -1,4 +1,8 @@
-## Hi there 👋
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexZ04&theme=dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexZ04&theme=dark" alt=""/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlexZ04&theme=dark" alt=""/>
+</div>
 
 <!--
 **AlexZ04/AlexZ04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

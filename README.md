@@ -1,3 +1,12 @@
+<div id="socials" align="center">
+  <a href="https://vk.com/da_ne_hochu_ya_imya_pridymivat">
+    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="VK"/>
+  </a>
+  <a href="https://t.me/da_ne_hochu_ya_imya_pridymivat">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexZ04&theme=dark" alt=""/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlexZ04&theme=dark" alt=""/>
